@@ -3,7 +3,12 @@
     {
       "name": "Cluster",
       "url": "https://registry.npmjs.com",
-      "scopes": [ "mu.cluster", "com.neoneobeam" ]
+      "scopes": [ "mu.cluster" ]
+    },
+    {
+      "name": "noir_neo",
+      "url": "https://registry.npmjs.com",
+      "scopes": [ "com.neoneobeam" ]
     }
   ],
   "dependencies": {
