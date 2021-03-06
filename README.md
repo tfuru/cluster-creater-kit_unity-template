@@ -6,6 +6,20 @@ Unityでcluster Creater Kitのプロジェクトを作成するためのプロ�
 
 **これはcluster非公式です**
 
+## 導入
+
+```
+cd /d/work/
+git clone git@github.com:tfuru/cluster-creater-kit_unity-template.git
+
+cd '/c/Program Files/2019.4.11f1/Editor/Data/Resources/PackageManager/ProjectTemplates'
+cp -r /d/work/cluster-creater-kit_unity-template/package com.unity.template.cluster
+```
+
+
+----
+以下は クローン元 [cluster-creater-kit_unity-template](https://github.com/Dolphiiiin/cluster-creater-kit_unity-template) の　README
+
 導入
 ---
 Release (https://github.com/Dolphiiiin/cluster-creater-kit_unity-template/releases/ )より最新の
