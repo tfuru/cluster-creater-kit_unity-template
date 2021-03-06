@@ -12,7 +12,7 @@
     }
   ],
   "dependencies": {
-    "mu.cluster.cluster-creator-kit": "1.11.1",
+    "mu.cluster.cluster-creator-kit": "1.12.2",
     "com.neoneobeam.cluster-creator-kit.trigger-editor": "0.1.2",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
